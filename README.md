@@ -12,7 +12,7 @@ If you want to build the application by yourself, simply open the __.jucer__ fil
 The mixer is divided in two sections, one for the music, and one for the voice. Each one got its own potentiometer to set its gain.
 The audio source loaded in the __Voice__ section is actually substracted to the other, before any gain modification.
 <br>
-In order to start playing, you need to load both sources to unlock the button. When clicking on stop, the playtime get back to zero and both sources stop playing.<br>
+In order to start playing, you need to load both sources to unlock the button. When clicking on stop, the playtime get back to zero and both sources stop playing.<br><br>
 ![AudioMixer UI](UIExample.png)
 
 
