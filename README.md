@@ -14,6 +14,8 @@ The audio source loaded in the __Voice__ section is actually substracted to the 
 <br>
 In order to start playing, you need to load both sources to unlock the button. When clicking on stop, the playtime get back to zero and both sources stop playing.<br><br>
 ![AudioMixer UI](UIExample.png)
+<br>
+For now, only __.wav__ and __.aiff__ files are supported
 
 
 
